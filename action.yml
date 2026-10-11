@@ -1,6 +1,6 @@
 name: "Policy Remove"
 description: "Remove policy image"
-author: "Aserto Inc."
+author: "gert@d5s.io"
 branding:
   icon: delete
   color: blue
